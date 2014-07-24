@@ -58,6 +58,11 @@ function initialize() {
       return{
         icon: "http://maps.google.com/mapfiles/ms/icons/orange-dot.png"
       };
+    if(color === "pink"){
+      return{
+        icon: "http://maps.google.com/mapfiles/ms/icons/pink-dot.png"
+      };
+    }
     }
 
   });

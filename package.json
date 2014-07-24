@@ -1,6 +1,7 @@
 {
     "name" : "NC-Google.Map",
-    "version" : "0.2.0",
+    "version" : "0.2.1",
+    "date": "07/23/2014",
     "author" : "Vern Wolfley",
     "twitter": "@vernwolfley",
     "url": "http://vwolfley.github.io/NC-Google.Map",

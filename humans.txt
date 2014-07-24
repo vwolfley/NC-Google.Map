@@ -21,8 +21,8 @@
 # SITE
     Site Name: NC Google Map
     Site URL: http://vwolfley.github.io/NC-Google.Map/
-    Version: 0.2.0
-    Last updated: 06/04/2014
+    Version: 0.2.1
+    Last updated: 07/23/2014
     Language: English
     Doctype: HTML5
     IDE: Sublime Text

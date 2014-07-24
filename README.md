@@ -10,7 +10,7 @@ Building a Google map with geojson.
 
 #### Version
 
-#### `0.2.0 - 06/06/2014`
+#### `0.2.1 - 07/23/2014`
 
 ### Keywords
 

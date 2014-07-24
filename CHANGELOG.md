@@ -4,6 +4,11 @@
 
 Major/Minor/Patch 0.0.0
 
+### Version 0.2.1 (07/23/2014)
+
+* added LDS Church to data
+* added Airports to data
+
 ### Version 0.2.0 (06/06/2014)
 
 * added banner
